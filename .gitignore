@@ -1,0 +1,11 @@
+# Source: https://github.com/ziglang/zig/blob/master/.gitignore
+
+.vscode/
+
+zig-cache/
+zig-out/
+release/
+debug/
+build/
+build-*/
+docgen_tmp/
